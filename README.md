@@ -3,7 +3,7 @@
 A React and Node.js app that runs programmable angular scans on a
 Zaber X-RST240B-E08 virtual rotary stage using the Zaber Motion Library.
 
-[Watch the demo](DEMO_URL)
+[Watch the demo](https://drive.google.com/file/d/1Y5t55ci89-jr6zGwK1x7dicItqqGKVpu/view?usp=sharing)
 
 ## How it works
 
