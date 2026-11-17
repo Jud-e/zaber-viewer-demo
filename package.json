@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@zaber/motion": "^10.3.0"
+  }
+}
